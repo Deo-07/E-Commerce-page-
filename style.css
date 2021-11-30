@@ -1,0 +1,143 @@
+*
+{
+margin: 0;
+padding: 0;
+text-decoration: none;
+list-style: none;
+
+}
+
+
+
+ /* -------------------- - CONTAINER  1 ---------------------------------------*/
+
+
+
+ .contain1 { 
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+    margin-bottom: 4rem;
+    position:static;
+    height: 50px;
+ 
+}
+
+                /* ------------ ///// ---------------- */
+    
+    
+    
+/* ----------------------------   CONTAINER 2 ------------------------------------------- */
+    
+.container.container-fluid {
+
+    display: flex;
+    text-align: center;
+
+
+}
+
+
+
+.container.container-fluid.row{
+    
+        justify-content: center;
+        display: flex;
+        text-align: center;
+        margin-bottom: 35vh;
+        margin-top: 5vh;
+       
+        
+    }
+    
+#box-radi{
+
+border-radius:23px;
+display: inline-block;
+transform: scale(1);
+transition: 0.3s ease-in-out;
+
+}
+
+#box-radi:hover {
+
+box-shadow: 2px 2px 3px hsl(225,77%,21%);
+transform: scale(0.9);
+
+
+
+}
+
+
+
+                            /* ---------------- ///// -------------- */
+    
+    
+
+
+/*---------------------------  CONTAINER 3    -------------*/
+    
+    
+.contain-3 {
+    
+    
+    background-color:hsl(225,77%,21%);
+    height:auto;
+    color:white;
+    padding: 4vh;
+
+}
+
+.items {
+
+    justify-content: center;
+    flex-direction: column;
+    line-height: 3;
+     text-align: center;
+
+}
+
+.items a{
+
+color: whitesmoke;
+text-decoration: none;
+border: 3px solid white;
+padding: 12px;
+border-radius: 35px;
+
+}
+
+
+.items a:hover{
+
+color: white;
+
+
+}
+
+
+                              /* ----- ////// ----- */
+
+
+
+/*------------------------  Container -4  ---------------------------------------*/
+
+p {
+
+font-size: small;
+font-weight: 380;
+
+
+}
+
+                        /* --------- ///// ---------- */
+
+
+
+
+
+
+
